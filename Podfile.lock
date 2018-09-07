@@ -1,0 +1,15 @@
+PODS:
+  - HorizontalDial (3.1)
+  - IGRPhotoTweaks (1.0.7)
+
+DEPENDENCIES:
+  - HorizontalDial
+  - IGRPhotoTweaks (~> 1.0.0)
+
+SPEC CHECKSUMS:
+  HorizontalDial: 16acccc70fca54554a2712e2aa56fc8d37244121
+  IGRPhotoTweaks: 8fe6b62c6599238d860b19b46a85a454e202f502
+
+PODFILE CHECKSUM: b3f167d18a0ee342f46825a936c67e8c29850a5f
+
+COCOAPODS: 1.4.0
